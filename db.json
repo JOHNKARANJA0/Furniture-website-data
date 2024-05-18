@@ -55,5 +55,12 @@
           "username": "admin",
           "password": "admin123"
       }
+  ],
+  "Emails":[
+    {
+        "email": "jonniekaras@gmail.com",
+        "feedback":"lorem"
+    }
   ]
+
 }
